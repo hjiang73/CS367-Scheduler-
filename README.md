@@ -1,1 +1,2 @@
 # CS367-Scheduler-
+This program is the fourth assignment of CS367 at UW-Madison. It uses a Interval Binary Tree to build a room schedule system. Scheduler.java is the main class of the program. The skeleton and sample files are provided by James Skentny and the program is implemented by Han Jiang and You Wu. 
